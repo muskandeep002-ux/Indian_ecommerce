@@ -1,4 +1,5 @@
-
+# This script loads all three cleaned CSVs directly into 
+# MySQL database using SQLAlchemy
 from sqlalchemy import create_engine
 import pandas as pd
 
