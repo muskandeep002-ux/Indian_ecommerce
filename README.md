@@ -33,4 +33,20 @@ Python → MySQL → Power BI
 
 ### Page 1 - Sales Overview
 
+<img width="1311" height="735" alt="Screenshot 2026-09-09 090920" src="https://github.com/user-attachments/assets/cbd28300-82e0-4f4c-acac-6b58b7bcb037" />
 
+### Page 2 - Customer Analysis
+
+<img width="1306" height="736" alt="Screenshot 2026-09-09 090959" src="https://github.com/user-attachments/assets/b70b2b09-4332-4aa7-9cb2-77594c9ed6e7" />
+
+### Page 3 - Product and category
+
+<img width="1319" height="745" alt="Screenshot 2026-09-09 091012" src="https://github.com/user-attachments/assets/56298bee-faa1-4deb-a6e3-d6f7f0febee5" />
+
+### Page 4 - Delivery and Operations
+
+<img width="1311" height="732" alt="Screenshot 2026-09-09 091027" src="https://github.com/user-attachments/assets/ec62b81c-772a-4c3d-965b-f113914f2204" />
+
+### Page 5 - Coupon and Payment Analysis
+
+<img width="1308" height="738" alt="Screenshot 2026-09-09 091040" src="https://github.com/user-attachments/assets/8bb34f86-07eb-4fa0-b5be-f74185cfd835" />
