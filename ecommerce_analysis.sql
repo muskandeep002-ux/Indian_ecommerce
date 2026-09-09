@@ -1,8 +1,6 @@
--- ================================================
 -- Indian E-Commerce Sales Analysis
 -- Tools: MySQL
--- Author: [Muskan Deep]
--- ================================================
+-- Author: Muskan Deep
 
 create database ecommerce;
 USE ecommerce;
