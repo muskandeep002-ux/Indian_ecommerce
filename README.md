@@ -33,6 +33,4 @@ Python → MySQL → Power BI
 
 ### Page 1 - Sales Overview
 
-![alt text](<Screenshot 2026-09-09 090920.png>)
-
 
