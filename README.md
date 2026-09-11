@@ -1,5 +1,6 @@
 
 # Indian E-Commerce Sales Analysis
+![Uploading WhatsApp Image 2026-09-11 at 10.51.41 AM.jpeg…]()
 
 ## Overview
 End-to-end data analysis project on 200,000+ Indian e-commerce 
