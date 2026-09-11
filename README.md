@@ -90,3 +90,15 @@ Findings:-
 - Credit Card least used payment method
 - Non-coupon users have higher average order value 
   than coupon users
+
+## Conclusion
+Analysis of 200,000+ Indian e-commerce transactions reveals:
+
+- Electronics dominates with highest revenue across all categories
+- UP generates highest state revenue consistently
+- 80% orders successfully delivered with avg 4.5 days delivery time
+- UPI is preferred payment mode among Indian shoppers
+- Yoga Mat surprisingly dominates as best selling product
+- Heavy discounts don't guarantee higher sales
+- Customers without coupons spend more per order than coupon users
+- Age group 26-35 is most active shopping demographic
